@@ -1,3 +1,4 @@
+Simon Game
 🎮 Simon Game
 
 A classic memory-based color sequence game built using HTML, CSS, and JavaScript.
